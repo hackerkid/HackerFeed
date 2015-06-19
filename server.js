@@ -7,7 +7,8 @@ var database = require('./config/database'); // load the database config
 var morgan = require('morgan');
 var bodyParser = require('body-parser');
 var methodOverride = require('method-override');
-var Post = require("./app/models/Post.js")
+var Post = require("./app/models/Post.js");
+var tools = require("./app/tools.js");
 
 // configuration ===============================================================
 mongoose.connect(database.url); // connect to mongoDB database on modulus.io
@@ -38,6 +39,8 @@ Post.count({
     if (err) {
         return handleError(err);
     } else {
-		console.log("There are" +count);	
+		//console.log("There are" +count);	
     }
 })
+
+tools.inititate_fetching();

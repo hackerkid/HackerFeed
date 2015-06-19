@@ -1,7 +1,7 @@
 var mongoose = require('mongoose');
 
 module.exports = mongoose.model('Post', {
-	title:  String,
+	 title:  String,
   	author: String,
   	url: String,
   	blogId: String,
