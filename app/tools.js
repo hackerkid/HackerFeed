@@ -6,18 +6,8 @@ var Post = require("./models/Post.js")
 var parse_feed = function(url, blogId) {
     feed(url, function(err, articles) {
         if (err) throw err;
-        // Each article has the following properties:
-        // 
-        //   * "title"     - The article title (String).
-        //   * "author"    - The author's name (String).
-        //   * "link"      - The original article link (String).
-        //   * "content"   - The HTML content of the article (String).
-        //   * "published" - The date that the article was published (Date).
-        //   * "feed"      - {name, source, link}
-        // 
 
         for (var i = 0; i < articles.length; i++) {
-            console.log(articles[i].title);
             checkPostExistAndCreate(articles[i], blogId);
         
         }
