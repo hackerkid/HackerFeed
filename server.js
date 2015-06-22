@@ -2,7 +2,7 @@
 var express = require('express');
 var app = express(); // create our app w/ express
 var mongoose = require('mongoose'); // mongoose for mongodb
-var port = process.env.OPENSHIFT_NODEJS_PORT || 8080; // set the port
+var port = process.env.OPENSHIFT_NODEJS_PORT || 8080// set the port
 var ip_address = process.env.OPENSHIFT_NODEJS_IP || '127.0.0.1'
 var database = require('./config/database'); // load the database config
 var morgan = require('morgan');
@@ -34,5 +34,5 @@ app.listen(port, ip_address, function() {
 console.log("App listening on port " + port);
 });
 
-
 tools.inititate_fetching();
+

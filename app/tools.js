@@ -22,10 +22,15 @@ var display_content = function(feed_list) {
 }
 
 var inititate_fetching = function() {
-    fs.readFile("feedburner.json", "utf8", function(err, content) {
+     var timeInterval = 1000 * 60 * 10; // 10 minutes 
+     setInterval(function(){ 
+        fs.readFile("feedburner.json", "utf8", function(err, content) {
         var feed_list = JSON.parse(content);
         display_content(feed_list);
-    });
+        }); 
+    }, timeInterval);
+
+    
 
 }
 
@@ -42,7 +47,7 @@ var checkPostExistAndCreate = function(post, blogId) {
             if (count == 0) {
                 Post.create({
                     title: post.title,
-                    body: post.content,
+                    //body: post.content,
                     author: post.author,
                     url: post.link,
                     date: post.published,

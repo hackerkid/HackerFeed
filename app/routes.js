@@ -19,6 +19,7 @@ module.exports = function(app) {
 
 		// use mongoose to get all todos in the database
 		getTodos(res);
+		console.log(req.body.id);
 	});
 
 	// create todo and send back all todos after creation
