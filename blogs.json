@@ -1,0 +1,2074 @@
+{
+    "opml": {
+        "head": {
+            "title": "Engineering Blogs"
+        },
+        "body": {
+            "outline": {
+                "outline": [
+                    {
+                        "_type": "rss",
+                        "_text": "2359 Media",
+                        "_title": "2359 Media",
+                        "_xmlUrl": "http://engineering.2359media.net/atom.xml",
+                        "_htmlUrl": "http://engineering.2359media.net/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "8th Light",
+                        "_title": "8th Light",
+                        "_xmlUrl": "http://blog.8thlight.com/feed/atom.xml",
+                        "_htmlUrl": "http://blog.8thlight.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "AdRoll",
+                        "_title": "AdRoll",
+                        "_xmlUrl": "http://tech.adroll.com/feed.xml",
+                        "_htmlUrl": "http://tech.adroll.com/blog/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Adzerk",
+                        "_title": "Adzerk",
+                        "_xmlUrl": "http://adzerk.com/tech/feed.xml",
+                        "_htmlUrl": "http://adzerk.com/tech/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Airbnb",
+                        "_title": "Airbnb",
+                        "_xmlUrl": "http://nerds.airbnb.com/feed/",
+                        "_htmlUrl": "http://nerds.airbnb.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "AirPair",
+                        "_title": "AirPair",
+                        "_xmlUrl": "https://www.airpair.com/rss",
+                        "_htmlUrl": "https://www.airpair.com/posts"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Algolia",
+                        "_title": "Algolia",
+                        "_xmlUrl": "https://blog.algolia.com/feed/",
+                        "_htmlUrl": "https://blog.algolia.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Allegro",
+                        "_title": "Allegro",
+                        "_xmlUrl": "http://allegrotech.io/feed.xml",
+                        "_htmlUrl": "http://allegrotech.io"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Artsy",
+                        "_title": "Artsy",
+                        "_xmlUrl": "http://artsy.github.io/atom.xml",
+                        "_htmlUrl": "http://artsy.github.io/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Asana",
+                        "_title": "Asana",
+                        "_xmlUrl": "https://eng.asana.com/feed/",
+                        "_htmlUrl": "https://eng.asana.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Atlassian",
+                        "_title": "Atlassian",
+                        "_xmlUrl": "https://developer.atlassian.com/blog/feed.xml",
+                        "_htmlUrl": "https://developer.atlassian.com/blog/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Auth0",
+                        "_title": "Auth0",
+                        "_xmlUrl": "http://feeds.feedburner.com/auth0",
+                        "_htmlUrl": "https://auth0.com/blog/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "AWeber",
+                        "_title": "AWeber",
+                        "_xmlUrl": "http://engineering.aweber.com/feed/",
+                        "_htmlUrl": "http://engineering.aweber.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Azavea",
+                        "_title": "Azavea",
+                        "_xmlUrl": "http://www.azavea.com/blogs/labs/feed/",
+                        "_htmlUrl": "http://www.azavea.com/blogs/labs/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Bandcamp",
+                        "_title": "Bandcamp",
+                        "_xmlUrl": "https://bandcamptech.wordpress.com/feed/",
+                        "_htmlUrl": "http://bandcamptech.wordpress.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Base Lab",
+                        "_title": "Base Lab",
+                        "_xmlUrl": "https://lab.getbase.com/feed/",
+                        "_htmlUrl": "https://lab.getbase.com/category/engineering/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Bazaarvoice",
+                        "_title": "Bazaarvoice",
+                        "_xmlUrl": "http://blog.developer.bazaarvoice.com/feed/",
+                        "_htmlUrl": "http://blog.developer.bazaarvoice.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "BenefitFocus",
+                        "_title": "BenefitFocus",
+                        "_xmlUrl": "http://engineering.benefitfocus.com/feed/",
+                        "_htmlUrl": "http://engineering.benefitfocus.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Bigcommerce",
+                        "_title": "Bigcommerce",
+                        "_xmlUrl": "http://bigeng.io/rss",
+                        "_htmlUrl": "http://bigeng.io/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Binary Studio",
+                        "_title": "Binary Studio",
+                        "_xmlUrl": "http://binary-studio.com/feed/",
+                        "_htmlUrl": "http://binary-studio.com/blog/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Bitly",
+                        "_title": "Bitly",
+                        "_xmlUrl": "http://word.bitly.com/rss",
+                        "_htmlUrl": "http://word.bitly.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "BitTorrent",
+                        "_title": "BitTorrent",
+                        "_xmlUrl": "http://engineering.bittorrent.com/feed/",
+                        "_htmlUrl": "http://engineering.bittorrent.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "BlaBlaCar",
+                        "_title": "BlaBlaCar",
+                        "_xmlUrl": "http://blablatech.com/atom.xml",
+                        "_htmlUrl": "http://blablatech.com/blog/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "BloomReach",
+                        "_title": "BloomReach",
+                        "_xmlUrl": "http://engineering.bloomreach.com/feed/",
+                        "_htmlUrl": "http://engineering.bloomreach.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Booking.com",
+                        "_title": "Booking.com",
+                        "_xmlUrl": "http://blog.booking.com/atom.xml",
+                        "_htmlUrl": "http://blog.booking.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Box",
+                        "_title": "Box",
+                        "_xmlUrl": "https://www.box.com/blog/feed",
+                        "_htmlUrl": "https://www.box.com/blog/engineering/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Boxever",
+                        "_title": "Boxever",
+                        "_xmlUrl": "http://www.boxever.com/feed",
+                        "_htmlUrl": "http://www.boxever.com/tech-blog"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Brandwatch",
+                        "_title": "Brandwatch",
+                        "_xmlUrl": "http://engineering.brandwatch.com/rss/",
+                        "_htmlUrl": "http://engineering.brandwatch.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Buzzfeed",
+                        "_title": "Buzzfeed",
+                        "_xmlUrl": "http://www.buzzfeed.com/galarant/python-buzzfeed",
+                        "_htmlUrl": "http://www.buzzfeed.com/techblog"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Carbon Five",
+                        "_title": "Carbon Five",
+                        "_xmlUrl": "http://blog.carbonfive.com/rss",
+                        "_htmlUrl": "http://blog.carbonfive.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Cerner",
+                        "_title": "Cerner",
+                        "_xmlUrl": "http://engineering.cerner.com/atom.xml",
+                        "_htmlUrl": "http://engineering.cerner.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Chartbeat",
+                        "_title": "Chartbeat",
+                        "_xmlUrl": "http://engineering.chartbeat.com/feed/",
+                        "_htmlUrl": "http://engineering.chartbeat.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Clever",
+                        "_title": "Clever",
+                        "_xmlUrl": "http://engineering.clever.com/index.xml",
+                        "_htmlUrl": "http://engineering.clever.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Cloudera",
+                        "_title": "Cloudera",
+                        "_xmlUrl": "http://blog.cloudera.com/feed/",
+                        "_htmlUrl": "http://blog.cloudera.com/blog/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Cloudflare",
+                        "_title": "Cloudflare",
+                        "_xmlUrl": "http://blog.cloudflare.com/rss/",
+                        "_htmlUrl": "http://blog.cloudflare.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "ClusterHQ",
+                        "_title": "ClusterHQ",
+                        "_xmlUrl": "https://clusterhq.com/feed.xml",
+                        "_htmlUrl": "https://clusterhq.com/blog/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Code School",
+                        "_title": "Code School",
+                        "_xmlUrl": "https://www.codeschool.com/blog/category/development/feed/",
+                        "_htmlUrl": "https://www.codeschool.com/blog/category/development/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "CodeName One",
+                        "_title": "CodeName One",
+                        "_xmlUrl": "http://www.codenameone.com/feed.xml",
+                        "_htmlUrl": "http://www.codenameone.com/blog.html"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Codeship",
+                        "_title": "Codeship",
+                        "_xmlUrl": "http://blog.codeship.com/feed/",
+                        "_htmlUrl": "http://blog.codeship.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Collective Idea",
+                        "_title": "Collective Idea",
+                        "_xmlUrl": "http://feeds.feedburner.com/collectiveidea",
+                        "_htmlUrl": "http://collectiveidea.com/blog/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Confluent",
+                        "_title": "Confluent",
+                        "_xmlUrl": "http://blog.confluent.io/feed/",
+                        "_htmlUrl": "http://blog.confluent.io/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Coolblue",
+                        "_title": "Coolblue",
+                        "_xmlUrl": "http://devblog.coolblue.nl/feed/",
+                        "_htmlUrl": "http://devblog.coolblue.nl/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Criteo",
+                        "_title": "Criteo",
+                        "_xmlUrl": "http://engineering.criteolabs.com/feeds/posts/default",
+                        "_htmlUrl": "http://engineering.criteolabs.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "DataFox",
+                        "_title": "DataFox",
+                        "_xmlUrl": "http://eng.datafox.co/feed.xml",
+                        "_htmlUrl": "http://eng.datafox.co/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "DeferPanic",
+                        "_title": "DeferPanic",
+                        "_xmlUrl": "https://deferpanic.com/blog/index.xml/",
+                        "_htmlUrl": "https://deferpanic.com/blog/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "DigitalOcean",
+                        "_title": "DigitalOcean",
+                        "_xmlUrl": "https://www.digitalocean.com/community/tutorials/feed",
+                        "_htmlUrl": "https://www.digitalocean.com/community/tutorials"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Docker",
+                        "_title": "Docker",
+                        "_xmlUrl": "https://blog.docker.com/feed/",
+                        "_htmlUrl": "http://blog.docker.com/category/engineering/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Dropbox",
+                        "_title": "Dropbox",
+                        "_xmlUrl": "https://blogs.dropbox.com/tech/feed/",
+                        "_htmlUrl": "https://blogs.dropbox.com/tech/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Ebay",
+                        "_title": "Ebay",
+                        "_xmlUrl": "http://www.ebaytechblog.com/feed/",
+                        "_htmlUrl": "http://www.ebaytechblog.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Engine Yard",
+                        "_title": "Engine Yard",
+                        "_xmlUrl": "https://blog.engineyard.com/feed.xml",
+                        "_htmlUrl": "https://blog.engineyard.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Envato",
+                        "_title": "Envato",
+                        "_xmlUrl": "http://webuild.envato.com/atom.xml",
+                        "_htmlUrl": "http://webuild.envato.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Etsy",
+                        "_title": "Etsy",
+                        "_xmlUrl": "https://codeascraft.com/feed/",
+                        "_htmlUrl": "https://codeascraft.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Eventbrite",
+                        "_title": "Eventbrite",
+                        "_xmlUrl": "https://engineering.eventbrite.com/feed/",
+                        "_htmlUrl": "https://engineering.eventbrite.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Evernote",
+                        "_title": "Evernote",
+                        "_xmlUrl": "http://blog.evernote.com/feed/",
+                        "_htmlUrl": "https://blog.evernote.com/tech/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "EverythingMe",
+                        "_title": "EverythingMe",
+                        "_xmlUrl": "http://geeks.everything.me/rss",
+                        "_htmlUrl": "http://geeks.everything.me/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Facebook",
+                        "_title": "Facebook",
+                        "_xmlUrl": "https://code.facebook.com/posts/rss",
+                        "_htmlUrl": "https://code.facebook.com/posts/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Facebook AI Research",
+                        "_title": "Facebook AI Research",
+                        "_xmlUrl": "https://research.facebook.com/blog/rss",
+                        "_htmlUrl": "https://research.facebook.com/blog/ai/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Fiftythree",
+                        "_title": "Fiftythree",
+                        "_xmlUrl": "http://making.fiftythree.com/feed.xml",
+                        "_htmlUrl": "http://making.fiftythree.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Finn.no",
+                        "_title": "Finn.no",
+                        "_xmlUrl": "http://tech.finn.no/atom.xml",
+                        "_htmlUrl": "http://tech.finn.no/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Flickr",
+                        "_title": "Flickr",
+                        "_xmlUrl": "http://code.flickr.net/feed/",
+                        "_htmlUrl": "http://code.flickr.net/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Flipboard",
+                        "_title": "Flipboard",
+                        "_xmlUrl": "http://engineering.flipboard.com/feed.xml",
+                        "_htmlUrl": "http://engineering.flipboard.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Flipkart",
+                        "_title": "Flipkart",
+                        "_xmlUrl": "http://tech-blog.flipkart.net/feed/",
+                        "_htmlUrl": "http://tech-blog.flipkart.net/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Foursquare",
+                        "_title": "Foursquare",
+                        "_xmlUrl": "http://engineering.foursquare.com/feed/",
+                        "_htmlUrl": "http://engineering.foursquare.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Funding Circle",
+                        "_title": "Funding Circle",
+                        "_xmlUrl": "https://engineering.fundingcircle.com/blog/feed.xml",
+                        "_htmlUrl": "https://engineering.fundingcircle.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Galois",
+                        "_title": "Galois",
+                        "_xmlUrl": "https://galois.com/feed/",
+                        "_htmlUrl": "https://galois.com/blog/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "GameChanger",
+                        "_title": "GameChanger",
+                        "_xmlUrl": "http://tech.gc.com/atom.xml",
+                        "_htmlUrl": "http://tech.gc.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "GitHub",
+                        "_title": "GitHub",
+                        "_xmlUrl": "http://githubengineering.com/atom.xml",
+                        "_htmlUrl": "http://githubengineering.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Gilt",
+                        "_title": "Gilt",
+                        "_xmlUrl": "http://tech.gilt.com/rss",
+                        "_htmlUrl": "http://tech.gilt.com"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Gnip",
+                        "_title": "Gnip",
+                        "_xmlUrl": "https://engineering.gnip.com/feed/",
+                        "_htmlUrl": "https://engineering.gnip.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "GoCardless",
+                        "_title": "GoCardless",
+                        "_xmlUrl": "https://gocardless.com/blog/atom.xml",
+                        "_htmlUrl": "https://gocardless.com/blog/tagged/engineering/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Good Eggs",
+                        "_title": "Good Eggs",
+                        "_xmlUrl": "http://bites.goodeggs.com/rss",
+                        "_htmlUrl": "http://bites.goodeggs.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "GoSquared",
+                        "_title": "GoSquared",
+                        "_xmlUrl": "https://engineering.gosquared.com/feed",
+                        "_htmlUrl": "https://engineering.gosquared.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Grammarly",
+                        "_title": "Grammarly",
+                        "_xmlUrl": "http://tech.grammarly.com/blog/blog/rss.xml",
+                        "_htmlUrl": "http://tech.grammarly.com"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Grouper",
+                        "_title": "Grouper",
+                        "_xmlUrl": "http://eng.joingrouper.com/atom.xml",
+                        "_htmlUrl": "http://eng.joingrouper.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Groupon",
+                        "_title": "Groupon",
+                        "_xmlUrl": "https://engineering.groupon.com/feed/",
+                        "_htmlUrl": "https://engineering.groupon.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Guardian",
+                        "_title": "Guardian",
+                        "_xmlUrl": "http://www.theguardian.com/info/developer-blog/rss",
+                        "_htmlUrl": "http://www.theguardian.com/info/developer-blog"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "HackerEarth",
+                        "_title": "HackerEarth",
+                        "_xmlUrl": "http://engineering.hackerearth.com/rss",
+                        "_htmlUrl": "http://engineering.hackerearth.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Harry's",
+                        "_title": "Harry's",
+                        "_xmlUrl": "http://engineering.harrys.com/feed.xml",
+                        "_htmlUrl": "http://engineering.harrys.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Hashrocket",
+                        "_title": "Hashrocket",
+                        "_xmlUrl": "http://feeds.feedburner.com/hashrocket-blog",
+                        "_htmlUrl": "http://hashrocket.com/blog"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Heroku",
+                        "_title": "Heroku",
+                        "_xmlUrl": "http://engineering.heroku.com/feed.xml",
+                        "_htmlUrl": "http://engineering.heroku.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Holiday Extras",
+                        "_title": "Holiday Extras",
+                        "_xmlUrl": "http://hungrygeek.holidayextras.co.uk/feed",
+                        "_htmlUrl": "http://hungrygeek.holidayextras.co.uk/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Honeybadger",
+                        "_title": "Honeybadger",
+                        "_xmlUrl": "http://blog.honeybadger.io/feed/",
+                        "_htmlUrl": "http://blog.honeybadger.io/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Hootsuite",
+                        "_title": "Hootsuite",
+                        "_xmlUrl": "http://code.hootsuite.com/feed/",
+                        "_htmlUrl": "http://code.hootsuite.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "HubSpot",
+                        "_title": "HubSpot",
+                        "_xmlUrl": "http://product.hubspot.com/blog/rss.xml",
+                        "_htmlUrl": "http://product.hubspot.com/blog/topic/engineering"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "IMVU",
+                        "_title": "IMVU",
+                        "_xmlUrl": "http://engineering.imvu.com/feed/",
+                        "_htmlUrl": "http://engineering.imvu.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Indeed",
+                        "_title": "Indeed",
+                        "_xmlUrl": "http://engineering.indeed.com/feed/",
+                        "_htmlUrl": "http://engineering.indeed.com/blog/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Instagram",
+                        "_title": "Instagram",
+                        "_xmlUrl": "http://instagram-engineering.tumblr.com/rss",
+                        "_htmlUrl": "http://instagram-engineering.tumblr.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Intent HQ",
+                        "_title": "Intent HQ",
+                        "_xmlUrl": "http://engineering.intenthq.com/feed.xml",
+                        "_htmlUrl": "http://engineering.intenthq.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Intent Media",
+                        "_title": "Intent Media",
+                        "_xmlUrl": "http://intentmedia.com/feed/",
+                        "_htmlUrl": "http://intentmedia.com/blog/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Jane Street",
+                        "_title": "Jane Street",
+                        "_xmlUrl": "https://blogs.janestreet.com/rss",
+                        "_htmlUrl": "https://blogs.janestreet.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Just Eat",
+                        "_title": "Just Eat",
+                        "_xmlUrl": "http://tech.just-eat.com/feed/",
+                        "_htmlUrl": "http://tech.just-eat.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Khan Academy",
+                        "_title": "Khan Academy",
+                        "_xmlUrl": "http://engineering.khanacademy.org/rss.xml",
+                        "_htmlUrl": "http://engineering.khanacademy.org"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Kickstarter",
+                        "_title": "Kickstarter",
+                        "_xmlUrl": "https://www.kickstarter.com/backing-and-hacking.atom",
+                        "_htmlUrl": "https://www.kickstarter.com/backing-and-hacking"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "LinkedIn",
+                        "_title": "LinkedIn",
+                        "_xmlUrl": "https://engineering.linkedin.com/taxonomy/term/1/feed",
+                        "_htmlUrl": "https://engineering.linkedin.com/blog"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Linkedcare",
+                        "_title": "Linkedcare",
+                        "_xmlUrl": "https://medium.com/feed/the-engineering-team",
+                        "_htmlUrl": "https://medium.com/the-engineering-team"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "LiveChat",
+                        "_title": "LiveChat",
+                        "_xmlUrl": "http://developers.livechatinc.com/feed/rss/",
+                        "_htmlUrl": "http://developers.livechatinc.com/blog/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "LiveRamp",
+                        "_title": "LiveRamp",
+                        "_xmlUrl": "http://liveramp.com/engineering/feed/",
+                        "_htmlUrl": "http://liveramp.com/engineering/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "LivingSocial",
+                        "_title": "LivingSocial",
+                        "_xmlUrl": "https://techblog.livingsocial.com/atom.xml",
+                        "_htmlUrl": "https://techblog.livingsocial.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Localytics",
+                        "_title": "Localytics",
+                        "_xmlUrl": "http://eng.localytics.com/rss/",
+                        "_htmlUrl": "http://eng.localytics.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Magnet.me",
+                        "_title": "Magnet.me",
+                        "_xmlUrl": "https://labs.magnet.me/feed.xml",
+                        "_htmlUrl": "https://labs.magnet.me"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "MailChimp",
+                        "_title": "MailChimp",
+                        "_xmlUrl": "http://devs.mailchimp.com/blog/feed/",
+                        "_htmlUrl": "http://devs.mailchimp.com/blog/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Mandrill",
+                        "_title": "Mandrill",
+                        "_xmlUrl": "http://blog.mandrill.com/feeds/all.atom.xml",
+                        "_htmlUrl": "http://blog.mandrill.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Medallia",
+                        "_title": "Medallia",
+                        "_xmlUrl": "http://engineering.medallia.com/blog/feed/",
+                        "_htmlUrl": "http://engineering.medallia.com/blog/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Medium",
+                        "_title": "Medium",
+                        "_xmlUrl": "https://medium.com/feed/medium-eng",
+                        "_htmlUrl": "http://medium.com/medium-eng"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "MemSQL",
+                        "_title": "MemSQL",
+                        "_xmlUrl": "http://blog.memsql.com/feed/",
+                        "_htmlUrl": "http://blog.memsql.com/content/engineering/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Mixpanel",
+                        "_title": "Mixpanel",
+                        "_xmlUrl": "https://code.mixpanel.com/feed/",
+                        "_htmlUrl": "http://code.mixpanel.com"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Monetate",
+                        "_title": "Monetate",
+                        "_xmlUrl": "http://engineering.monetate.com/feed/",
+                        "_htmlUrl": "http://engineering.monetate.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "MoneyBird",
+                        "_title": "MoneyBird",
+                        "_xmlUrl": "http://engineering.moneybird.com/atom.xml",
+                        "_htmlUrl": "http://engineering.moneybird.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Monsanto",
+                        "_title": "Monsanto",
+                        "_xmlUrl": "http://engineering.monsanto.com/feed.xml",
+                        "_htmlUrl": "http://engineering.monsanto.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Mozilla Automation Team",
+                        "_title": "Mozilla Automation Team",
+                        "_xmlUrl": "http://planet.mozilla.org/ateam/atom.xml",
+                        "_htmlUrl": "http://planet.mozilla.org/ateam/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Mozilla Release Engineering",
+                        "_title": "Mozilla Release Engineering",
+                        "_xmlUrl": "http://planet.mozilla.org/releng/atom.xml",
+                        "_htmlUrl": "http://planet.mozilla.org/releng/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Moove-it",
+                        "_title": "Moove-it",
+                        "_xmlUrl": "http://blog.moove-it.com/rss",
+                        "_htmlUrl": "http://blog.moove-it.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Myntra",
+                        "_title": "Myntra",
+                        "_xmlUrl": "http://myntra.github.io/atom.xml",
+                        "_htmlUrl": "http://myntra.github.io/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Myntra Data Science",
+                        "_title": "Myntra Data Science",
+                        "_xmlUrl": "http://sartorialscience.myntrablogs.com/feeds/posts/default",
+                        "_htmlUrl": "http://sartorialscience.myntrablogs.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "nerdish by nature",
+                        "_title": "nerdish by nature",
+                        "_xmlUrl": "http://nerdishbynature.com/feed.xml",
+                        "_htmlUrl": "http://nerdishbynature.com/blog/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Netflix",
+                        "_title": "Netflix",
+                        "_xmlUrl": "http://techblog.netflix.com/feeds/posts/default",
+                        "_htmlUrl": "http://techblog.netflix.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "New York Times",
+                        "_title": "New York Times",
+                        "_xmlUrl": "http://open.blogs.nytimes.com/feed/",
+                        "_htmlUrl": "http://open.blogs.nytimes.com"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Nextdoor",
+                        "_title": "Nextdoor",
+                        "_xmlUrl": "https://engblog.nextdoor.com/feed/",
+                        "_htmlUrl": "https://engblog.nextdoor.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Nordic APIs",
+                        "_title": "Nordic APIs",
+                        "_xmlUrl": "http://nordicapis.com/feed/",
+                        "_htmlUrl": "http://nordicapis.com/blog/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "NPR Apps",
+                        "_title": "NPR Apps",
+                        "_xmlUrl": "http://blog.apps.npr.org/atom.xml",
+                        "_htmlUrl": "http://blog.apps.npr.org/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "OpenTable",
+                        "_title": "OpenTable",
+                        "_xmlUrl": "http://tech.opentable.com/feed/",
+                        "_htmlUrl": "http://tech.opentable.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Optimizely",
+                        "_title": "Optimizely",
+                        "_xmlUrl": "https://medium.com/feed/nerds-optimizely",
+                        "_htmlUrl": "https://medium.com/nerds-optimizely"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Oursky",
+                        "_title": "Oursky",
+                        "_xmlUrl": "http://code.oursky.com/feed/",
+                        "_htmlUrl": "http://code.oursky.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Oyster",
+                        "_title": "Oyster",
+                        "_xmlUrl": "http://tech.oyster.com/feed/",
+                        "_htmlUrl": "http://tech.oyster.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Paperless Post",
+                        "_title": "Paperless Post",
+                        "_xmlUrl": "http://dev.paperlesspost.com/atom.xml",
+                        "_htmlUrl": "http://dev.paperlesspost.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Parse",
+                        "_title": "Parse",
+                        "_xmlUrl": "http://blog.parse.com/feed/",
+                        "_htmlUrl": "http://blog.parse.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Paypal",
+                        "_title": "Paypal",
+                        "_xmlUrl": "https://www.paypal-engineering.com/feed/",
+                        "_htmlUrl": "https://www.paypal-engineering.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Periscope",
+                        "_title": "Periscope",
+                        "_xmlUrl": "https://www.periscope.io/blog/atom.xml",
+                        "_htmlUrl": "https://www.periscope.io/blog/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Pinterest",
+                        "_title": "Pinterest",
+                        "_xmlUrl": "http://engineering.pinterest.com/rss",
+                        "_htmlUrl": "http://engineering.pinterest.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Polyvore",
+                        "_title": "Polyvore",
+                        "_xmlUrl": "http://engblog.polyvore.com/feeds/posts/default",
+                        "_htmlUrl": "http://engblog.polyvore.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Postmark",
+                        "_title": "Postmark",
+                        "_xmlUrl": "http://blog.postmarkapp.com/rss",
+                        "_htmlUrl": "http://blog.postmarkapp.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Prezi",
+                        "_title": "Prezi",
+                        "_xmlUrl": "https://medium.com/feed/prezi-engineering",
+                        "_htmlUrl": "https://medium.com/prezi-engineering"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Prismatic",
+                        "_title": "Prismatic",
+                        "_xmlUrl": "http://blog.getprismatic.com/rss/",
+                        "_htmlUrl": "http://blog.getprismatic.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Prolific Interactive",
+                        "_title": "Prolific Interactive",
+                        "_xmlUrl": "http://blog.prolificinteractive.com/category/development/feed/",
+                        "_htmlUrl": "http://blog.prolificinteractive.com/category/development/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Quora",
+                        "_title": "Quora",
+                        "_xmlUrl": "http://engineering.quora.com/rss",
+                        "_htmlUrl": "http://engineering.quora.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Raizlabs",
+                        "_title": "Raizlabs",
+                        "_xmlUrl": "http://www.raizlabs.com/dev/feed/",
+                        "_htmlUrl": "http://www.raizlabs.com/dev/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Rdio",
+                        "_title": "Rdio",
+                        "_xmlUrl": "https://algorithms.rdio.com/atom.xml",
+                        "_htmlUrl": "https://algorithms.rdio.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Recruiterbox",
+                        "_title": "Recruiterbox",
+                        "_xmlUrl": "http://inside.recruiterbox.com/rss",
+                        "_htmlUrl": "http://inside.recruiterbox.com"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Redbubble",
+                        "_title": "Redbubble",
+                        "_xmlUrl": "http://artplustech.com/feed/",
+                        "_htmlUrl": "http://artplustech.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Red Hat",
+                        "_title": "Red Hat",
+                        "_xmlUrl": "http://developerblog.redhat.com/feed/",
+                        "_htmlUrl": "https://developerblog.redhat.com"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Remind",
+                        "_title": "Remind",
+                        "_xmlUrl": "http://engineering.remind.com/feed.xml",
+                        "_htmlUrl": "http://engineering.remind.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Rent the Runway",
+                        "_title": "Rent the Runway",
+                        "_xmlUrl": "http://dresscode.renttherunway.com/blog?format=RSS",
+                        "_htmlUrl": "http://dresscode.renttherunway.com/blog/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Rightscale",
+                        "_title": "Rightscale",
+                        "_xmlUrl": "http://eng.rightscale.com/feed.xml",
+                        "_htmlUrl": "http://eng.rightscale.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "RisingStack",
+                        "_title": "RisingStack",
+                        "_xmlUrl": "http://blog.risingstack.com/rss/",
+                        "_htmlUrl": "http://blog.risingstack.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Salesforce",
+                        "_title": "Salesforce",
+                        "_xmlUrl": "https://developer.salesforce.com/blogs/engineering/feed",
+                        "_htmlUrl": "https://developer.salesforce.com/blogs/engineering/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Schibsted Tech Polska",
+                        "_title": "Schibsted Tech Polska",
+                        "_xmlUrl": "http://www.schibsted.pl/blog/feed/",
+                        "_htmlUrl": "http://www.schibsted.pl/blog/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Sensible",
+                        "_title": "Sensible",
+                        "_xmlUrl": "http://blog.sensible.io/rss",
+                        "_htmlUrl": "http://blog.sensible.io/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Shape Security",
+                        "_title": "Shape Security",
+                        "_xmlUrl": "http://engineering.shapesecurity.com/atom.xml",
+                        "_htmlUrl": "http://engineering.shapesecurity.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Shopify",
+                        "_title": "Shopify",
+                        "_xmlUrl": "http://feeds.feedburner.com/shopify-technology",
+                        "_htmlUrl": "http://www.shopify.com/technology"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Sift Science",
+                        "_title": "Sift Science",
+                        "_xmlUrl": "http://blog.siftscience.com/blog?format=RSS",
+                        "_htmlUrl": "http://blog.siftscience.com/?category=Engineering"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Simple",
+                        "_title": "Simple",
+                        "_xmlUrl": "https://www.simple.com/engineering-rss.xml",
+                        "_htmlUrl": "https://www.simple.com/engineering"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "SlideShare",
+                        "_title": "SlideShare",
+                        "_xmlUrl": "http://engineering.slideshare.net/feed/",
+                        "_htmlUrl": "http://engineering.slideshare.net/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Socialcast",
+                        "_title": "Socialcast",
+                        "_xmlUrl": "http://blog.socialcast.com/feed/",
+                        "_htmlUrl": "http://blog.socialcast.com/engineering/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Songkick",
+                        "_title": "Songkick",
+                        "_xmlUrl": "http://devblog.songkick.com/feed/",
+                        "_htmlUrl": "http://devblog.songkick.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Soundcloud",
+                        "_title": "Soundcloud",
+                        "_xmlUrl": "https://developers.soundcloud.com/blog.rss",
+                        "_htmlUrl": "https://developers.soundcloud.com/blog/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Spotify",
+                        "_title": "Spotify",
+                        "_xmlUrl": "https://labs.spotify.com/feed/",
+                        "_htmlUrl": "https://labs.spotify.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Square",
+                        "_title": "Square",
+                        "_xmlUrl": "http://feeds.feedburner.com/corner-squareup-com",
+                        "_htmlUrl": "https://corner.squareup.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "SRC:CLR",
+                        "_title": "SRC:CLR",
+                        "_xmlUrl": "https://blog.srcclr.com/atom.xml",
+                        "_htmlUrl": "https://blog.srcclr.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Stormpath",
+                        "_title": "Stormpath",
+                        "_xmlUrl": "https://stormpath.com/atom.xml",
+                        "_htmlUrl": "https://stormpath.com/blog"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Strava",
+                        "_title": "Strava",
+                        "_xmlUrl": "http://engineering.strava.com/feed/atom/",
+                        "_htmlUrl": "http://engineering.strava.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Stripe",
+                        "_title": "Stripe",
+                        "_xmlUrl": "https://stripe.com/blog/feed.rss",
+                        "_htmlUrl": "https://stripe.com/blog"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Takipi",
+                        "_title": "Takipi",
+                        "_xmlUrl": "http://blog.takipi.com/feed/",
+                        "_htmlUrl": "http://blog.takipi.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "TaskRabbit",
+                        "_title": "TaskRabbit",
+                        "_xmlUrl": "http://tech.taskrabbit.com/",
+                        "_htmlUrl": "http://tech.taskrabbit.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "theScore",
+                        "_title": "theScore",
+                        "_xmlUrl": "http://techblog.thescore.com/feed.xml",
+                        "_htmlUrl": "http://techblog.thescore.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Thoughtbot",
+                        "_title": "Thoughtbot",
+                        "_xmlUrl": "feed://feeds.feedburner.com/GiantRobotsSmashingIntoOtherGiantRobots",
+                        "_htmlUrl": "https://robots.thoughtbot.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "ThoughtWorks",
+                        "_title": "ThoughtWorks",
+                        "_xmlUrl": "http://www.thoughtworks.com/rss/insights.xml",
+                        "_htmlUrl": "http://www.thoughtworks.com/insights"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Thumbtack",
+                        "_title": "Thumbtack",
+                        "_xmlUrl": "https://www.thumbtack.com/engineering/feeds/all.atom.xml",
+                        "_htmlUrl": "https://www.thumbtack.com/engineering/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Ticketmaster",
+                        "_title": "Ticketmaster",
+                        "_xmlUrl": "http://tech.ticketmaster.com/feed/",
+                        "_htmlUrl": "http://tech.ticketmaster.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Tilt",
+                        "_title": "Tilt",
+                        "_xmlUrl": "http://engineering.tilt.com/atom.xml",
+                        "_htmlUrl": "http://engineering.tilt.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Trello",
+                        "_title": "Trello",
+                        "_xmlUrl": "https://trello.engineering/feed.xml",
+                        "_htmlUrl": "https://trello.engineering/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Trivago",
+                        "_title": "Trivago",
+                        "_xmlUrl": "http://tech.trivago.com/atom.xml",
+                        "_htmlUrl": "http://tech.trivago.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Tumblr",
+                        "_title": "Tumblr",
+                        "_xmlUrl": "http://engineering.tumblr.com/rss",
+                        "_htmlUrl": "http://engineering.tumblr.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Twilio",
+                        "_title": "Twilio",
+                        "_xmlUrl": "https://www.twilio.com/engineering/feed/",
+                        "_htmlUrl": "https://www.twilio.com/engineering/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Twitter",
+                        "_title": "Twitter",
+                        "_xmlUrl": "https://blog.twitter.com/api/blog.rss?name=engineering",
+                        "_htmlUrl": "https://blog.twitter.com/engineering"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "VersionEye",
+                        "_title": "VersionEye",
+                        "_xmlUrl": "http://blog.versioneye.com/feed/",
+                        "_htmlUrl": "http://blog.versioneye.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Viget",
+                        "_title": "Viget",
+                        "_xmlUrl": "http://feeds.feedburner.com/Viget",
+                        "_htmlUrl": "http://viget.com/extend"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Vimeo",
+                        "_title": "Vimeo",
+                        "_xmlUrl": "http://makingvimeo.com/rss",
+                        "_htmlUrl": "http://makingvimeo.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Vine",
+                        "_title": "Vine",
+                        "_xmlUrl": "http://engineering.vine.co/rss",
+                        "_htmlUrl": "http://engineering.vine.co/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Vinted",
+                        "_title": "Vinted",
+                        "_xmlUrl": "http://engineering.vinted.com/atom.xml",
+                        "_htmlUrl": "http://engineering.vinted.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Warby Parker",
+                        "_title": "Warby Parker",
+                        "_xmlUrl": "http://www.theoculists.com/feed/",
+                        "_htmlUrl": "http://www.theoculists.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Wattpad",
+                        "_title": "Wattpad",
+                        "_xmlUrl": "http://engineering.wattpad.com/rss",
+                        "_htmlUrl": "http://engineering.wattpad.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Wayfair",
+                        "_title": "Wayfair",
+                        "_xmlUrl": "http://engineering.wayfair.com/feed/",
+                        "_htmlUrl": "http://engineering.wayfair.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Wealthfront",
+                        "_title": "Wealthfront",
+                        "_xmlUrl": "http://eng.wealthfront.com/feeds/posts/default",
+                        "_htmlUrl": "http://eng.wealthfront.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "WebEngage",
+                        "_title": "WebEngage",
+                        "_xmlUrl": "http://engineering.webengage.com/feed/",
+                        "_htmlUrl": "http://engineering.webengage.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Wix",
+                        "_title": "Wix",
+                        "_xmlUrl": "http://engineering.wix.com/feed/",
+                        "_htmlUrl": "http://engineering.wix.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Wonga Technology",
+                        "_title": "Wonga Technology",
+                        "_xmlUrl": "http://wongatech.github.io/feed.xml",
+                        "_htmlUrl": "http://tech.wonga.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "XING",
+                        "_title": "XING",
+                        "_xmlUrl": "https://devblog.xing.com/feed/",
+                        "_htmlUrl": "https://devblog.xing.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "XO Group",
+                        "_title": "XO Group",
+                        "_xmlUrl": "http://tech.xogroupinc.com/rss",
+                        "_htmlUrl": "http://tech.xogroupinc.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Yahoo",
+                        "_title": "Yahoo",
+                        "_xmlUrl": "http://yahooeng.tumblr.com/rss",
+                        "_htmlUrl": "http://yahooeng.tumblr.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Yammer",
+                        "_title": "Yammer",
+                        "_xmlUrl": "https://eng.yammer.com/feed/",
+                        "_htmlUrl": "https://eng.yammer.com/blog/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Yelp",
+                        "_title": "Yelp",
+                        "_xmlUrl": "http://engineeringblog.yelp.com/rss",
+                        "_htmlUrl": "http://engineeringblog.yelp.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "YLD!",
+                        "_title": "YLD!",
+                        "_xmlUrl": "http://blog.yld.io/rss/",
+                        "_htmlUrl": "http://blog.yld.io"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Zendesk",
+                        "_title": "Zendesk",
+                        "_xmlUrl": "https://developer.zendesk.com/blog.xml",
+                        "_htmlUrl": "https://developer.zendesk.com/blog"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "ZenPayroll",
+                        "_title": "ZenPayroll",
+                        "_xmlUrl": "http://engineering.zenpayroll.com/rss/",
+                        "_htmlUrl": "http://engineering.zenpayroll.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Zesty",
+                        "_title": "Zesty",
+                        "_xmlUrl": "http://engineering.zesty.com/rss/",
+                        "_htmlUrl": "http://engineering.zesty.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Zillow",
+                        "_title": "Zillow",
+                        "_xmlUrl": "http://engineering.zillow.com/feed/",
+                        "_htmlUrl": "https://engineering.zillow.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Zumba",
+                        "_title": "Zumba",
+                        "_xmlUrl": "http://feeds.feedburner.com/zumba_engineering",
+                        "_htmlUrl": "http://tech.zumba.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "A List Apart",
+                        "_title": "A List Apart",
+                        "_xmlUrl": "http://alistapart.com/site/rss",
+                        "_htmlUrl": "http://alistapart.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Adam Leventhal",
+                        "_title": "Adam Leventhal",
+                        "_xmlUrl": "http://dtrace.org/blogs/ahl/feed/",
+                        "_htmlUrl": "http://dtrace.org/blogs/ahl/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Addy Osmani",
+                        "_title": "Addy Osmani",
+                        "_xmlUrl": "http://addyosmani.com/blog/feed/",
+                        "_htmlUrl": "http://addyosmani.com/blog/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Ajaxian",
+                        "_title": "Ajaxian",
+                        "_xmlUrl": "http://ajaxian.com/index.xml",
+                        "_htmlUrl": "http://ajaxian.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Alex Russell",
+                        "_title": "Alex Russell",
+                        "_xmlUrl": "https://infrequently.org/feed/",
+                        "_htmlUrl": "https://infrequently.org/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Allison Kaptur",
+                        "_title": "Allison Kaptur",
+                        "_xmlUrl": "http://akaptur.com/atom.xml",
+                        "_htmlUrl": "http://akaptur.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Anders Aarvik",
+                        "_title": "Anders Aarvik",
+                        "_xmlUrl": "http://aarvik.dk/rss/",
+                        "_htmlUrl": "http://aarvik.dk/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Andrew Bancroft",
+                        "_title": "Andrew Bancroft",
+                        "_xmlUrl": "http://www.andrewcbancroft.com/feed/",
+                        "_htmlUrl": "http://www.andrewcbancroft.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Antirez",
+                        "_title": "Antirez",
+                        "_xmlUrl": "http://antirez.com/rss",
+                        "_htmlUrl": "http://antirez.com/latest/0"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Armin Ronacher",
+                        "_title": "Armin Ronacher",
+                        "_xmlUrl": "http://lucumr.pocoo.org/feed.atom",
+                        "_htmlUrl": "http://lucumr.pocoo.org/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Bad Concurrency",
+                        "_title": "Bad Concurrency",
+                        "_xmlUrl": "http://bad-concurrency.blogspot.com/feeds/posts/default",
+                        "_htmlUrl": "http://bad-concurrency.blogspot.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Barry Warsaw",
+                        "_title": "Barry Warsaw",
+                        "_xmlUrl": "http://www.wefearchange.org/feeds/posts/default",
+                        "_htmlUrl": "http://www.wefearchange.org/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Bill the Lizard",
+                        "_title": "Bill the Lizard",
+                        "_xmlUrl": "http://www.billthelizard.com/feeds/posts/default",
+                        "_htmlUrl": "http://www.billthelizard.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Blundell's Android Tutorials",
+                        "_title": "Blundell's Android Tutorials",
+                        "_xmlUrl": "http://blog.blundell-apps.com/feed/",
+                        "_htmlUrl": "http://blog.blundell-apps.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Brandon Rhodes",
+                        "_title": "Brandon Rhodes",
+                        "_xmlUrl": "http://rhodesmill.org/brandon/feed",
+                        "_htmlUrl": "http://rhodesmill.org/brandon/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Brendan Eich",
+                        "_title": "Brendan Eich",
+                        "_xmlUrl": "https://brendaneich.com/feed/",
+                        "_htmlUrl": "https://brendaneich.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Brendan Gregg",
+                        "_title": "Brendan Gregg",
+                        "_xmlUrl": "http://www.brendangregg.com/blog/rss.xml",
+                        "_htmlUrl": "http://www.brendangregg.com/blog/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Carlos Becker",
+                        "_title": "Carlos Becker",
+                        "_xmlUrl": "http://carlosbecker.com/atom.xml",
+                        "_htmlUrl": "http://carlosbecker.com"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Chris Wellons",
+                        "_title": "Chris Wellons",
+                        "_xmlUrl": "http://nullprogram.com/feed/",
+                        "_htmlUrl": "http://nullprogram.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Cocoa Is My Girlfriend",
+                        "_title": "Cocoa Is My Girlfriend",
+                        "_xmlUrl": "http://www.cimgf.com/feed/",
+                        "_htmlUrl": "http://www.cimgf.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Code Better",
+                        "_title": "Code Better",
+                        "_xmlUrl": "http://feeds.feedburner.com/CodeBetter",
+                        "_htmlUrl": "http://codebetter.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Codrops",
+                        "_title": "Codrops",
+                        "_xmlUrl": "http://tympanus.net/codrops/rss",
+                        "_htmlUrl": "http://tympanus.net/codrops/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Dan North",
+                        "_title": "Dan North",
+                        "_xmlUrl": "http://dannorth.net/feed/",
+                        "_htmlUrl": "http://dannorth.net/blog/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Daniel Doubrovkine (dB.)",
+                        "_title": "Daniel Doubrovkine (dB.)",
+                        "_xmlUrl": "http://code.dblock.org/feed.xml",
+                        "_htmlUrl": "http://code.dblock.org/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Daily JS",
+                        "_title": "Daily JS",
+                        "_xmlUrl": "http://dailyjs.com/rss/",
+                        "_htmlUrl": "http://dailyjs.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Dave Cheney",
+                        "_title": "Dave Cheney",
+                        "_xmlUrl": "http://dave.cheney.net/feed",
+                        "_htmlUrl": "http://dave.cheney.net/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "David Walsh",
+                        "_title": "David Walsh",
+                        "_xmlUrl": "http://davidwalsh.name/feed/atom",
+                        "_htmlUrl": "http://davidwalsh.name/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Deborah Digges",
+                        "_title": "Deborah Digges",
+                        "_xmlUrl": "http://deborah-digges.github.io/atom.xml",
+                        "_htmlUrl": "http://deborah-digges.github.io/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Dereuromark",
+                        "_title": "Dereuromark",
+                        "_xmlUrl": "http://www.dereuromark.de/feed/",
+                        "_htmlUrl": "http://www.dereuromark.de/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Ducode.org",
+                        "_title": "Ducode.org",
+                        "_xmlUrl": "https://ducode.org/feed",
+                        "_htmlUrl": "https://ducode.org/tag/tutorial"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Elegant Code",
+                        "_title": "Elegant Code",
+                        "_xmlUrl": "http://elegantcode.com/feed/",
+                        "_htmlUrl": "http://elegantcode.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Eli Bendersky",
+                        "_title": "Eli Bendersky",
+                        "_xmlUrl": "http://eli.thegreenplace.net/feeds/all.atom.xml",
+                        "_htmlUrl": "http://eli.thegreenplace.net/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Fatih Arslan",
+                        "_title": "Fatih Arslan",
+                        "_xmlUrl": "http://arslan.io/posts.atom",
+                        "_htmlUrl": "http://arslan.io/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Gleb Bahmutov",
+                        "_title": "Gleb Bahmutov",
+                        "_xmlUrl": "http://glebbahmutov.com/blog/atom.xml",
+                        "_htmlUrl": "http://glebbahmutov.com/blog/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Gonto",
+                        "_title": "Gonto",
+                        "_xmlUrl": "http://gon.to/feed.xml",
+                        "_htmlUrl": "http://gon.to/blog/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Guido van Rossum",
+                        "_title": "Guido van Rossum",
+                        "_xmlUrl": "http://neopythonic.blogspot.com/feeds/posts/default",
+                        "_htmlUrl": "http://neopythonic.blogspot.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "High Scalability",
+                        "_title": "High Scalability",
+                        "_xmlUrl": "http://feeds.feedburner.com/HighScalability",
+                        "_htmlUrl": "http://highscalability.com/blog/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Ian Miell",
+                        "_title": "Ian Miell",
+                        "_xmlUrl": "https://zwischenzugs.wordpress.com/feed/",
+                        "_htmlUrl": "http://zwischenzugs.wordpress.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Ilya Grigorik",
+                        "_title": "Ilya Grigorik",
+                        "_xmlUrl": "https://www.igvita.com/feed/",
+                        "_htmlUrl": "https://www.igvita.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Jake Wharton",
+                        "_title": "Jake Wharton",
+                        "_xmlUrl": "http://jakewharton.com/atom.xml",
+                        "_htmlUrl": "http://jakewharton.com/blog"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "James Long",
+                        "_title": "James Long",
+                        "_xmlUrl": "http://feedpress.me/jlongster",
+                        "_htmlUrl": "http://jlongster.com/archive"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Jeff Atwood",
+                        "_title": "Jeff Atwood",
+                        "_xmlUrl": "http://feeds.feedburner.com/codinghorror",
+                        "_htmlUrl": "http://blog.codinghorror.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Joel Spolsky",
+                        "_title": "Joel Spolsky",
+                        "_xmlUrl": "http://www.joelonsoftware.com/rss.xml",
+                        "_htmlUrl": "http://www.joelonsoftware.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "John Resig",
+                        "_title": "John Resig",
+                        "_xmlUrl": "http://feeds.feedburner.com/JohnResig",
+                        "_htmlUrl": "http://ejohn.org/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Jon Skeet",
+                        "_title": "Jon Skeet",
+                        "_xmlUrl": "http://codeblog.jonskeet.uk/feed/",
+                        "_htmlUrl": "http://codeblog.jonskeet.uk/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Jonathan Dekhtiar",
+                        "_title": "Jonathan Dekhtiar",
+                        "_xmlUrl": "http://rss.jonathandekhtiar.eu/rss/",
+                        "_htmlUrl": "http://rss.jonathandekhtiar.eu/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Justin Weiss",
+                        "_title": "Justin Weiss",
+                        "_xmlUrl": "http://www.justinweiss.com/atom.xml",
+                        "_htmlUrl": "http://www.justinweiss.com/blog/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Kent Beck",
+                        "_title": "Kent Beck",
+                        "_xmlUrl": "http://www.threeriversinstitute.org/blog/?feed=rss2",
+                        "_htmlUrl": "http://www.threeriversinstitute.org/blog/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Kyle Kingsbury",
+                        "_title": "Kyle Kingsbury",
+                        "_xmlUrl": "https://aphyr.com/posts.atom",
+                        "_htmlUrl": "https://aphyr.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Lambda the Ultimate",
+                        "_title": "Lambda the Ultimate",
+                        "_xmlUrl": "http://lambda-the-ultimate.org/rss.xml",
+                        "_htmlUrl": "http://lambda-the-ultimate.org/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Lea Verou",
+                        "_title": "Lea Verou",
+                        "_xmlUrl": "http://lea.verou.me/feed/",
+                        "_htmlUrl": "http://lea.verou.me/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Leo",
+                        "_title": "Leo",
+                        "_xmlUrl": "https://leo.github.io/feed.xml",
+                        "_htmlUrl": "http://leo.github.io"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Lerner Consulting Blog",
+                        "_title": "Lerner Consulting Blog",
+                        "_xmlUrl": "http://blog.lerner.co.il/feed/",
+                        "_htmlUrl": "http://blog.lerner.co.il/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Life Plus Linux",
+                        "_title": "Life Plus Linux",
+                        "_xmlUrl": "http://lifepluslinux.blogspot.com/feeds/posts/default",
+                        "_htmlUrl": "http://lifepluslinux.blogspot.in/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Marc Plano-Lesay",
+                        "_title": "Marc Plano-Lesay",
+                        "_xmlUrl": "http://enoent.fr/atom.xml",
+                        "_htmlUrl": "http://enoent.fr"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Marco Pivetta",
+                        "_title": "Marco Pivetta",
+                        "_xmlUrl": "http://ocramius.github.io/atom.xml",
+                        "_htmlUrl": "http://ocramius.github.io/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Martin Fowler",
+                        "_title": "Martin Fowler",
+                        "_xmlUrl": "http://www.martinfowler.com/feed.atom",
+                        "_htmlUrl": "http://martinfowler.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Matt Cutts",
+                        "_title": "Matt Cutts",
+                        "_xmlUrl": "https://www.mattcutts.com/blog/feed/",
+                        "_htmlUrl": "https://www.mattcutts.com/blog/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Michael Becker",
+                        "_title": "Michael Becker",
+                        "_xmlUrl": "http://beckerfuffle.com/atom.xml",
+                        "_htmlUrl": "http://beckerfuffle.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Michaël Gallego",
+                        "_title": "Michaël Gallego",
+                        "_xmlUrl": "http://www.michaelgallego.fr/feed.xml",
+                        "_htmlUrl": "http://www.michaelgallego.fr/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Mike Ash",
+                        "_title": "Mike Ash",
+                        "_xmlUrl": "http://www.mikeash.com/pyblog/rss.py",
+                        "_htmlUrl": "https://www.mikeash.com/pyblog/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Nick Desaulniers",
+                        "_title": "Nick Desaulniers",
+                        "_xmlUrl": "https://nickdesaulniers.github.io/atom.xml",
+                        "_htmlUrl": "https://nickdesaulniers.github.io/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Nicolas Liochon",
+                        "_title": "Nicolas Liochon",
+                        "_xmlUrl": "http://blog.thislongrun.com/feeds/posts/default",
+                        "_htmlUrl": "http://blog.thislongrun.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Nikola Brežnjak",
+                        "_title": "Nikola Brežnjak",
+                        "_xmlUrl": "http://www.nikola-breznjak.com/blog/feed/",
+                        "_htmlUrl": "http://www.nikola-breznjak.com/blog/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "NSHipster",
+                        "_title": "NSHipster",
+                        "_xmlUrl": "http://nshipster.com/feed.xml",
+                        "_htmlUrl": "http://nshipster.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Ole Begemann",
+                        "_title": "Ole Begemann",
+                        "_xmlUrl": "http://oleb.net/blog/atom.xml",
+                        "_htmlUrl": "http://oleb.net/blog/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Oona Räisänen",
+                        "_title": "Oona Räisänen",
+                        "_xmlUrl": "http://www.windytan.com/feeds/posts/default",
+                        "_htmlUrl": "http://www.windytan.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Pat Shaughnessy",
+                        "_title": "Pat Shaughnessy",
+                        "_xmlUrl": "http://feeds2.feedburner.com/patshaughnessy",
+                        "_htmlUrl": "http://patshaughnessy.net/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Paul Irish",
+                        "_title": "Paul Irish",
+                        "_xmlUrl": "http://feeds.feedburner.com/paul-irish",
+                        "_htmlUrl": "http://www.paulirish.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Peter Lyons",
+                        "_title": "Peter Lyons",
+                        "_xmlUrl": "http://peterlyons.com/problog/feed",
+                        "_htmlUrl": "http://peterlyons.com/problog"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Peter Norvig",
+                        "_title": "Peter Norvig",
+                        "_xmlUrl": "http://www.norvig.com/rss-feed.xml",
+                        "_htmlUrl": "http://norvig.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Peter Steinberger",
+                        "_title": "Peter Steinberger",
+                        "_xmlUrl": "http://petersteinberger.com/atom.xml",
+                        "_htmlUrl": "http://petersteinberger.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Peteris Krumins",
+                        "_title": "Peteris Krumins",
+                        "_xmlUrl": "http://www.catonmat.net/feed/",
+                        "_htmlUrl": "http://www.catonmat.net/blog/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Philip Walton",
+                        "_title": "Philip Walton",
+                        "_xmlUrl": "http://feeds.feedburner.com/philipwalton",
+                        "_htmlUrl": "http://philipwalton.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Radek Pazdera",
+                        "_title": "Radek Pazdera",
+                        "_xmlUrl": "http://radek.io/rss.xml",
+                        "_htmlUrl": "http://radek.io"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Radim Řehůřek",
+                        "_title": "Radim Řehůřek",
+                        "_xmlUrl": "http://radimrehurek.com/feed/",
+                        "_htmlUrl": "http://radimrehurek.com/blog/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Ramon Fried",
+                        "_title": "Ramon Fried",
+                        "_xmlUrl": "https://nativeguru.wordpress.com/feed/",
+                        "_htmlUrl": "https://nativeguru.wordpress.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Raymond Chen",
+                        "_title": "Raymond Chen",
+                        "_xmlUrl": "http://blogs.msdn.com/rss.aspx",
+                        "_htmlUrl": "http://blogs.msdn.com/b/oldnewthing/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Raymond Hettinger",
+                        "_title": "Raymond Hettinger",
+                        "_xmlUrl": "https://rhettinger.wordpress.com/feed/",
+                        "_htmlUrl": "https://rhettinger.wordpress.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Real Python",
+                        "_title": "Real Python",
+                        "_xmlUrl": "https://realpython.com/atom.xml",
+                        "_htmlUrl": "https://realpython.com/blog"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Reginald Braithwaite",
+                        "_title": "Reginald Braithwaite",
+                        "_xmlUrl": "http://raganwald.com/atom.xml",
+                        "_htmlUrl": "http://raganwald.com/#essays"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Regular Geek",
+                        "_title": "Regular Geek",
+                        "_xmlUrl": "http://feeds.regulargeek.com/RegularGeek",
+                        "_htmlUrl": "http://regulargeek.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Robert C. Martin",
+                        "_title": "Robert C. Martin",
+                        "_xmlUrl": "http://blog.cleancoder.com/atom.xml",
+                        "_htmlUrl": "http://blog.cleancoder.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Scott Hanselman",
+                        "_title": "Scott Hanselman",
+                        "_xmlUrl": "http://feeds.hanselman.com/ScottHanselman",
+                        "_htmlUrl": "http://www.hanselman.com/blog/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Stephen Colebourne",
+                        "_title": "Stephen Colebourne",
+                        "_xmlUrl": "http://blog.joda.org/feeds/posts/default",
+                        "_htmlUrl": "http://blog.joda.org/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Steve Yegge",
+                        "_title": "Steve Yegge",
+                        "_xmlUrl": "http://steve-yegge.blogspot.com/feeds/posts/default",
+                        "_htmlUrl": "http://steve-yegge.blogspot.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Swift Offical Dev Blog",
+                        "_title": "Swift Offical Dev Blog",
+                        "_xmlUrl": "feed://developer.apple.com/swift/blog/news.rss",
+                        "_htmlUrl": "https://developer.apple.com/swift/blog/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Swizec Teller",
+                        "_title": "Swizec Teller",
+                        "_xmlUrl": "http://swizec.com/blog/feed",
+                        "_htmlUrl": "http://swizec.com/blog/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "The Daily WTF",
+                        "_title": "The Daily WTF",
+                        "_xmlUrl": "http://thedailywtf.com/rss",
+                        "_htmlUrl": "http://thedailywtf.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Vanilla Java",
+                        "_title": "Vanilla Java",
+                        "_xmlUrl": "http://vanillajava.blogspot.com/feeds/posts/default",
+                        "_htmlUrl": "http://vanillajava.blogspot.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Virtuous Code",
+                        "_title": "Virtuous Code",
+                        "_xmlUrl": "http://devblog.avdi.org/feed/",
+                        "_htmlUrl": "http://devblog.avdi.org/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "William Kennedy",
+                        "_title": "William Kennedy",
+                        "_xmlUrl": "http://www.goinggo.net/feeds/posts/default",
+                        "_htmlUrl": "http://www.goinggo.net/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Winston Chen",
+                        "_title": "Winston Chen",
+                        "_xmlUrl": "http://www.winstonchen.co/feeds/posts/default",
+                        "_htmlUrl": "http://www.winstonchen.co/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Yegor Bugayenko",
+                        "_title": "Yegor Bugayenko",
+                        "_xmlUrl": "http://www.yegor256.com/rss.xml",
+                        "_htmlUrl": "http://www.yegor256.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Yifan Lu",
+                        "_title": "Yifan Lu",
+                        "_xmlUrl": "http://yifan.lu/feed/",
+                        "_htmlUrl": "http://yifan.lu/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Zach Holman",
+                        "_title": "Zach Holman",
+                        "_xmlUrl": "http://zachholman.com/atom.xml",
+                        "_htmlUrl": "http://zachholman.com/"
+                    },
+                    {
+                        "_type": "rss",
+                        "_text": "Zolmeister",
+                        "_title": "Zolmeister",
+                        "_xmlUrl": "http://www.zolmeister.com/feeds/posts/default",
+                        "_htmlUrl": "https://zolmeister.com/"
+                    }
+                ],
+                "_text": "Engineering Blogs",
+                "_title": "Engineering Blogs"
+            }
+        },
+        "_version": "1.0"
+    }
+}

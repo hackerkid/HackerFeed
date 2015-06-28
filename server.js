@@ -36,3 +36,8 @@ console.log("App listening on port " + port);
 
 tools.inititate_fetching();
 
+/*
+Post.find().remove( function() {
+	console.log("done");
+} );
+*/

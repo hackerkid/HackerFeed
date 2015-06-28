@@ -4,8 +4,16 @@
   font-weight: 600;
   line-height: 22px;
   padding: 20px;
+  background-color: blue;
 
 
+
+}
+
+#profilePic {
+  border-radius: 200px;
+  max-width: 30px;
+  margin-top  : 2px;
 }
 
 .feed {
@@ -16,4 +24,6 @@
   padding: 0px 10px;
   position: relative;
 }
+
+
 

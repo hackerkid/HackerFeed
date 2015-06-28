@@ -1,9 +1,18 @@
 [{
-    "name": "Adzerk",
-    "url": "http://adzerk.com/tech/",
-    "feed_url": "http://feeds.feedburner.com/AdzerkTechBlog"
-}, {
-    "name": "Adroll",
-    "url": "http://tech.adroll.com",
-    "feed_url": "http://tech.adroll.com/feed.xml"
-}]
+    "blog_name": "Paul Irish",
+    "url": "http://www.paulirish.com/",
+    "feed_url": "http://feeds.feedburner.com/paul-irish",
+    "blog_id": "1", 
+    "category": "javascript"
+},
+{
+	"blog_name": "Addy Osamani", 
+	"url": "http://addyosmani.com/blog/", 
+	"feed_url": "http://feeds.feedburner.com/addyosmani", 
+	"blog_id": "2", 
+	"category": "javascript"
+}
+
+
+
+]

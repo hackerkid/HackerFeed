@@ -1,9 +1,9 @@
 [{
-    "name": "Adzerk",
-    "url": "http://adzerk.com/tech/",
-    "feed_url": "http://feeds.feedburner.com/AdzerkTechBlog"
+    "name": "Andrew Chen",
+    "url": "http://andrewchen.co/",
+    "feed_url": "http://andrewchen.co/feed/"
 }, {
-    "name": "Adroll",
-    "url": "http://tech.adroll.com",
-    "feed_url": "http://tech.adroll.com/feed.xml"
+    "name": "Adam Nash",
+    "url": "http://blog.adamnash.com/",
+    "feed_url": "http://blog.adamnash.com/feed/"
 }]

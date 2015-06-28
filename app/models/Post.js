@@ -5,6 +5,8 @@ module.exports = mongoose.model('Post', {
   	author: String,
   	url: String,
   	blogId: String,
+    blogName: String,
+    category: String,
   	body:   String,
   	comments: [{ body: String, date: Date }],
   	date: { type: Date, default: Date.now },
